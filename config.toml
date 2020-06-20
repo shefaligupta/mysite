@@ -125,4 +125,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://docs.google.com/document/d/1y9QeZdFmmvwJIaAvswQ2_HDw8TwHgzAyAeyIjy3t0i8/edit?usp=sharing"
+    url        = "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1y9QeZdFmmvwJIaAvswQ2_HDw8TwHgzAyAeyIjy3t0i8/export?format=pdf"
