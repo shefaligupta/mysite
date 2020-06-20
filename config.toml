@@ -1,3 +1,4 @@
+baseURL="https://shefaligupta.github.io/frog-bother-chat/"
 languageCode = "en-us"
 title = "Shefali Gupta"
 theme = "hello-friend-ng"
