@@ -122,6 +122,6 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "resume"
+    name       = "Resume"
+    url        = "https://docs.google.com/document/d/1y9QeZdFmmvwJIaAvswQ2_HDw8TwHgzAyAeyIjy3t0i8/edit?usp=sharing"
