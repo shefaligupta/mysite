@@ -126,3 +126,28 @@ disableHugoGeneratorInject = false
     identifier = "resume"
     name       = "Resume"
     url        = "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1y9QeZdFmmvwJIaAvswQ2_HDw8TwHgzAyAeyIjy3t0i8/export?format=pdf"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      decimals = -1
+      keepCSS2 = false
+    [minify.tdewolff.html]
+      keepConditionalComments = false
+      keepDefaultAttrVals = false
+      keepDocumentTags = false
+      keepEndTags = false
+      keepWhitespace = false
+    [minify.tdewolff.js]
+    [minify.tdewolff.json]
+    [minify.tdewolff.svg]
+      decimals = -1
+    [minify.tdewolff.xml]
+      keepWhitespace = false
